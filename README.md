@@ -14,7 +14,7 @@ MediaPipe is a framework for building multimodal (eg. video, audio, any time ser
 
 ## Live Demo
 
-![]()
+![](https://github.com/Abhishekkakati101/Virtual-Canvas/blob/main/canvas3.gif)
 
 ## Installation:
 -  `Mediapipe`: pip install mediapipe
